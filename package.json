@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@streamlit/streamlit-component-lib": "^1.4.0",
     "plotly.js": "^2.24.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
