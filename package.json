@@ -1,0 +1,24 @@
+{
+  "name": "resume-matcher",
+  "version": "1.0.0",
+  "description": "Free and Open Source ATS to help your resume pass the screening stage",
+  "main": "streamlit_app.py",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@streamlit/streamlit-component-lib": "^1.4.0",
+    "plotly.js": "^2.24.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "streamlit-component-lib": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.5"
+  }
+}
